@@ -41,6 +41,7 @@ ul.posts {
 
 ul.posts li {
   line-height: 1.75em;
+  font-weight: bold;  
 }
 
 ul.posts span {
@@ -49,6 +50,12 @@ ul.posts span {
   font-size: 80%;
 }
 
+.excerpt {
+  color: #000;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  margin-left: 8em;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -58,9 +65,14 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 80%;
   margin: 1em auto 2em;
   line-height: 1.5em;
+}
+
+.about{
+  width: 20%;
+  float: right;
 }
 
 .site .header a {
