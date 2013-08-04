@@ -1,3 +1,5 @@
 name: Small Ruby box
 markdown: redcarpet
 pygments: true
+description: A small Ruby blog
+url: http://mojobiri.github.io

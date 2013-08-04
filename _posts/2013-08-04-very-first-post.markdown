@@ -11,6 +11,8 @@ It's my first attempt to manage my own blog. There will be  mainly notes on my p
 <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'smallrubyblog'; // required: replace example with your forum shortname
+            var disqus_identifier = '{{ page.url }}';
+            var disqus_url = 'http://mojobiri.github.com{{ page.url }}';
 
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
@@ -24,8 +26,6 @@ It's my first attempt to manage my own blog. There will be  mainly notes on my p
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'smallrubyblog'; // required: replace example with your forum shortname
-			var disqus_identifier = '{{ page.url }}';
-			var disqus_url = 'http://mojobiri.github.com{{ page.url }}';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function () {
