@@ -1,24 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-08-03 21:36:03
-categories: jekyll update
-published false
+title:  "Hello World!"
+categories:
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+# Hello! 
+It's my first attempt to manage my own blog. There will be  mainly notes on my projects on ruby, rails and associated to them curious things. Feel free to comment post and contact me for any questions.
 
 <div id="disqus_thread"> </div>
 <script type="text/javascript">
